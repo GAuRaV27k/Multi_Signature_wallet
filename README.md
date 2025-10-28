@@ -72,3 +72,10 @@ Phase 5: DeFi Integration
 🏦 Yield Farming - Stake assets with multi-sig control
 📊 Portfolio Management - Track and manage DeFi positions
 🤝 Protocol Integration - Interact with lending/borrowing protocols
+
+
+
+contract detail : 0xc99b04c7d04413690543653C8836C964Ac7BBEfC
+
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/88662471-2538-43e5-8c30-ffd763afdf60" />
+
